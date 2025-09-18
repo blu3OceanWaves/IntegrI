@@ -200,6 +200,9 @@ sudo integri scan -f /etc -o baseline.json
 - Check file permissions on output directory
 
 ## Contact
+For bugs, feedback, or questions, connect with me on LinkedIn:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassin-el-wardioui-34016b332/)
 
 ---
 
