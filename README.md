@@ -21,7 +21,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/integri.git
+git clone https://github.com/blu3OceanWaves/integri.git
 cd integri
 
 # Make executable
