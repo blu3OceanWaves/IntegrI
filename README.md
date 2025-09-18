@@ -2,7 +2,7 @@
 
 **System Integrity & Change Detection Tool**
 
--- A light weight Python tool for monitoring Linux system changes, detecting file modifications, tracking user accounts, and maintaining system baselines --
+-- A lightweight Python tool for monitoring Linux system changes, detecting file modifications, tracking user accounts, and maintaining system baselines --
 
 ## ✨ Features
 
